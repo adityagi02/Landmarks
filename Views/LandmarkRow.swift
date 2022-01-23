@@ -2,8 +2,10 @@
 //  LandmarkRow.swift
 //  Landmarks
 //  Creating the Row View
+//  Customizing the Row Preview
+//  Creating the List of Landmarks
+//  Making the List Dynamic
 //  Created by Aditya Tyagi  on 23/01/22.
-//
 
 import SwiftUI
 
@@ -25,6 +27,9 @@ struct LandmarkRow: View {
 
 struct LandmarkRow_Previews: PreviewProvider {
     static var previews: some View {
-        LandmarkRow(landmark: landmarks[0])
+        Group{
+            LandmarkRow(landmark: landmarks[0])
+            LandmarkRow(landmark: landmarks[1])
+        } .previewLayout(.fixed(width: 300, height: 70))
     }
 }
