@@ -3,16 +3,19 @@
 <h1>⚠️Under Construction⚠️</h1>
 
 
-## `Want to Contribute` <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px">
+## `Want to Contribute` <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="40px">
 We'd love your contributions!
 
-<h2> Requirements for Contribution  <img align="center" src="https://s3.amazonaws.com//bluesky_portal_prod/uploads/redactor_images/1478541693.063433_check_it_off_your_list_MED.gif" height="30px"> 
+
+<h2> Requirements for Contribution <img align="center" src="https://s3.amazonaws.com//bluesky_portal_prod/uploads/redactor_images/1478541693.063433_check_it_off_your_list_MED.gif" height="50px"></h2>
+
 * Xcode
 * Understanding of Swift Lang
 * Git(😶‍🌫️)
-</h2>
 
-Kindly follow the steps below to get started:
+
+Kindly follow <b>the steps</b> below to get started:
+
 0. Star <a href="https://github.com/adityagi02/Problemset-Codeforces" title="this">this</a> repository.
 
 1. Fork <a href="https://github.com/adityagi02/Problemset-Codeforces" title="this">this</a> repository.
