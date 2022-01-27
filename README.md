@@ -16,9 +16,9 @@ We'd love your contributions!
 
 Kindly follow <b>the steps</b> below to get started:
 
-0. Star <a href="https://github.com/adityagi02/Problemset-Codeforces" title="this">this</a> repository.
+0. Star <a href="https://github.com/adityagi02/Landmarks" title="this">this</a> repository.
 
-1. Fork <a href="https://github.com/adityagi02/Problemset-Codeforces" title="this">this</a> repository.
+1. Fork <a href="https://github.com/adityagi02/Landmarks" title="this">this</a> repository.
 
 2. Clone the forked repository.
 ```css
@@ -35,7 +35,7 @@ cd Landmarks
 git checkout -b <your_branch_name>
 ```
 
-5. Make changes.
+5. Make changes through <a href="https://developer.apple.com/xcode/" title="this">Xcode</a>.
 
 6. Stage your changes and commit
 ```css
