@@ -34,7 +34,7 @@ cd Landmarks
 git checkout -b <your_branch_name>
 ```
 
-5. Make changes through <a href="https://developer.apple.com/xcode/" title="this">Xcode</a>.
+5. Make changes through Latest Version(12 or above) of <a href="https://developer.apple.com/xcode/" title="this">Xcode</a>.
 
 6. Stage your changes and commit
 ```css
